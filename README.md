@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm Stefan T!
 
-<!--
-**StefanTalaba/StefanTalaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer ︱ 🌟 innovative solutions
 
-Here are some ideas to get you started:
+👨‍💻 Welcome to my GitHub profile! I’m a software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I’m always eager to learn and explore new tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools: 
+
+📁 HTML5
+⚡ JavaScript
+⚛️ React
+🟢 Node.js
+
+🌟 Featured Projects:
+
+📦 Stefan OS
+
+📦 AION
+
+🤝 Let's Connect!
+💼 LinkedIn - https://www.linkedin.com/in/stefan-t-1861962b9/
+🌐 Website - aion-digital.com
+
